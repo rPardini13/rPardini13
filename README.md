@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Eu sou Rômulo Pardini 👋
 
-<!--
-**rPardini13/rPardini13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Big Data para Negócios** na **FATEC** (2º semestre), com interesse em transformar dados em decisões.
+Atualmente estou em busca de **estágio em Dados / Analytics**.
 
-Here are some ideas to get you started:
+### 🔭 O que estou fazendo agora
+- Aprendendo **Python** com projetos práticos, como o [Controle de Gastos](https://github.com/rPardini13/controle-gastos)
+- Estudando bancos de dados **SQL** e **NoSQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas
+`Python` · `SQL` · `NoSQL` · `HTML/CSS` · `PHP` · `C#` · `Git`
+
+### 📂 Projetos em destaque
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [controle-gastos](https://github.com/rPardini13/controle-gastos) | Controle de gastos pessoais no terminal | Python |
+| [ProjetoLeviathan](https://github.com/rPardini13/ProjetoLeviathan) | Site acadêmico | HTML, PHP, CSS |
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%B4mulo-pardini/)
