@@ -16,5 +16,3 @@ Atualmente estou em busca de **estágio em Dados / Analytics**.
 | [controle-gastos](https://github.com/rPardini13/controle-gastos) | Controle de gastos pessoais no terminal | Python |
 | [ProjetoLeviathan](https://github.com/rPardini13/ProjetoLeviathan) | Site acadêmico | HTML, PHP, CSS |
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%B4mulo-pardini/)
